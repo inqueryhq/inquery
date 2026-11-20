@@ -6,6 +6,10 @@ AI-powered database query assistant that converts natural language to SQL.
 
 ## Demo
 
+### Inquery in 90 seconds
+
+https://github.com/user-attachments/assets/147cfe11-f384-43b7-acf7-49ad31cdff0b
+
 All demos run against the bundled **Sample E-Commerce DB**. Waiting for the model is sped up and marked in the caption.
 
 ### AI Chat
